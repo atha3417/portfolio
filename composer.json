@@ -1,0 +1,13 @@
+{
+    "name": "atha/portfolio",
+    "description": "Just a simple portfolio app",
+    "keywords": ["portfolio"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
